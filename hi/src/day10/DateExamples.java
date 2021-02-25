@@ -20,6 +20,7 @@ public class DateExamples {
 		String str= "2020-11-05";
 		LocalDate strdate= LocalDate.parse(str);
 		System.out.println(strdate);
+		System.out.println("dob"+dob);
 				
 
 	}
