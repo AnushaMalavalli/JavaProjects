@@ -13,6 +13,8 @@ public class NoOfWords {
 			}
 		}
         System.out.println("Number of words:"+count);
+        System.out.println("Checked");
 	}
+	
 
 }
