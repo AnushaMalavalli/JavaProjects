@@ -15,7 +15,7 @@ public class Palindrome {
 	      {
 	         System.out.println("Given String is not palindrome");
 	      }
-	      System.out.println("checked");
+	      System.out.println("checked today");
 		
 		
 
